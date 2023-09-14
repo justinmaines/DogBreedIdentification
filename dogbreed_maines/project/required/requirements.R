@@ -1,0 +1,10 @@
+install.packages("data.table",repos= "http://lib.stat.cmu.edu/R/CRAN/")
+install.packages("caret",repos= "http://lib.stat.cmu.edu/R/CRAN/")
+install.packages("Rtsne")
+install.packages("ClusterR")
+
+library(data.table)
+library(Rtsne)
+library(ggplot2)
+library(caret)
+library(ClusterR)
